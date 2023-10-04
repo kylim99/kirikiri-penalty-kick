@@ -5,11 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ffcff5ae-b92d-4566-8549-02537c9b3e18" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/kirikiri-penalty-kick/src/main/java/penaltykick/Utill/Reference.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kirikiri-penalty-kick/src/main/java/penaltykick/domain/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kirikiri-penalty-kick/src/main/java/penaltykick/view/InputView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kirikiri-penalty-kick/src/main/java/penaltykick/view/OutputView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/kirikiri-penalty-kick/src/main/java/penaltykick/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/kirikiri-penalty-kick/src/main/java/penaltykick/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kirikiri-penalty-kick/src/main/java/penaltykick/Utill/Reference.java" beforeDir="false" afterPath="$PROJECT_DIR$/kirikiri-penalty-kick/src/main/java/penaltykick/Utill/Reference.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kirikiri-penalty-kick/src/main/java/penaltykick/controller/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/kirikiri-penalty-kick/src/main/java/penaltykick/Game.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kirikiri-penalty-kick/src/main/java/penaltykick/domain/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/kirikiri-penalty-kick/src/main/java/penaltykick/domain/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kirikiri-penalty-kick/src/main/java/penaltykick/view/OutputView.java" beforeDir="false" afterPath="$PROJECT_DIR$/kirikiri-penalty-kick/src/main/java/penaltykick/view/OutputView.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,7 +98,7 @@
       <workItem from="1696323091871" duration="1081000" />
       <workItem from="1696324292572" duration="1777000" />
       <workItem from="1696326115971" duration="5879000" />
-      <workItem from="1696336137365" duration="6039000" />
+      <workItem from="1696336137365" duration="8273000" />
     </task>
     <servers />
   </component>
