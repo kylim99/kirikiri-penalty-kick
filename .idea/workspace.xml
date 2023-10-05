@@ -7,12 +7,10 @@
     <list default="true" id="ffcff5ae-b92d-4566-8549-02537c9b3e18" name="변경" comment="수정">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/kirikiri-penalty-kick/src/main/java/penaltykick/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/kirikiri-penalty-kick/src/main/java/penaltykick/Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kirikiri-penalty-kick/src/main/java/penaltykick/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/kirikiri-penalty-kick/src/main/java/penaltykick/Game.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kirikiri-penalty-kick/src/main/java/penaltykick/Utill/Reference.java" beforeDir="false" afterPath="$PROJECT_DIR$/kirikiri-penalty-kick/src/main/java/penaltykick/utill/Reference.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kirikiri-penalty-kick/src/main/java/penaltykick/Utill/Validation.java" beforeDir="false" afterPath="$PROJECT_DIR$/kirikiri-penalty-kick/src/main/java/penaltykick/utill/Validation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kirikiri-penalty-kick/src/main/java/penaltykick/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/kirikiri-penalty-kick/src/main/java/penaltykick/controller/GameController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/kirikiri-penalty-kick/src/main/java/penaltykick/domain/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/kirikiri-penalty-kick/src/main/java/penaltykick/domain/Player.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kirikiri-penalty-kick/src/main/java/penaltykick/view/InputView.java" beforeDir="false" afterPath="$PROJECT_DIR$/kirikiri-penalty-kick/src/main/java/penaltykick/view/InputView.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kirikiri-penalty-kick/src/main/java/penaltykick/view/OutputView.java" beforeDir="false" afterPath="$PROJECT_DIR$/kirikiri-penalty-kick/src/main/java/penaltykick/view/OutputView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kirikiri-penalty-kick/src/main/java/penaltykick/utill/Reference.java" beforeDir="false" afterPath="$PROJECT_DIR$/kirikiri-penalty-kick/src/main/java/penaltykick/utill/Reference.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kirikiri-penalty-kick/src/main/java/penaltykick/utill/Validation.java" beforeDir="false" afterPath="$PROJECT_DIR$/kirikiri-penalty-kick/src/main/java/penaltykick/utill/Validation.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,7 +99,7 @@
       <workItem from="1696324292572" duration="1777000" />
       <workItem from="1696326115971" duration="5879000" />
       <workItem from="1696336137365" duration="11273000" />
-      <workItem from="1696505402517" duration="3491000" />
+      <workItem from="1696505402517" duration="5685000" />
     </task>
     <task id="LOCAL-00001" summary="수정">
       <created>1696400953160</created>
@@ -110,7 +108,14 @@
       <option name="project" value="LOCAL" />
       <updated>1696400953160</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="수정">
+      <created>1696513431069</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1696513431069</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
